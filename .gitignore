@@ -1,0 +1,23 @@
+# Editores e sistema
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# Simulacao e sintese (GHDL, GTKWave, Quartus)
+*.vcd
+*.ghw
+*.cf
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.qws
+*.sof
+*.pof
+*.rpt
+*.hex
